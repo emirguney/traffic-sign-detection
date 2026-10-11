@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Traffic Sign Classification</title>
+  <desc id="desc">A stylized road with traffic signs and a neural network motif.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b132b"/>
+      <stop offset="0.55" stop-color="#1c2541"/>
+      <stop offset="1" stop-color="#164e63"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="360" rx="24" fill="url(#sky)"/>
+  <circle cx="1038" cy="74" r="112" fill="#22d3ee" opacity="0.08"/>
+  <circle cx="1090" cy="280" r="170" fill="#38bdf8" opacity="0.06"/>
+
+  <g font-family="Arial, Helvetica, sans-serif" fill="#f8fafc">
+    <text x="74" y="118" font-size="20" font-weight="700" letter-spacing="4" fill="#67e8f9">COMPUTER VISION PROJECT</text>
+    <text x="70" y="188" font-size="58" font-weight="800">Traffic Sign</text>
+    <text x="70" y="250" font-size="58" font-weight="800">Classification</text>
+    <text x="74" y="300" font-size="22" fill="#cbd5e1">TensorFlow · Keras · OpenCV · 43 classes</text>
+  </g>
+</svg>
