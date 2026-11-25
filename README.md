@@ -118,14 +118,6 @@ process, but are separate from the CNN implementation in this repository:
 The GUI interaction pattern and 43-class label map are based on the
 [DataFlair traffic-sign recognition tutorial](https://data-flair.training/blogs/python-project-traffic-signs-recognition/).
 
-## Possible next steps
-
-- replace hard-coded paths with a portable configuration or CLI;
-- migrate deprecated Keras calls to current TensorFlow APIs;
-- include a reproducible dataset setup and model download workflow;
-- add a confusion matrix and per-class metrics; and
-- create a separate YOLO-based detector for full-scene localization.
-
 ---
 
 Built by [Emirhan Güney](https://github.com/emirguney) as a computer-vision
